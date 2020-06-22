@@ -29,6 +29,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!--monggodb  依赖-->
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-mongodb</artifactId>
