@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1  #host\u5730\u5740
+      port: 27017  #\u7AEF\u53E3\u53F7
+      database: local  #\u8981\u4F7F\u7528\u54EA\u6570\u636E\u5E93\u7684\u5E93\u540D
